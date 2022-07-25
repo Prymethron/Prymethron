@@ -15,7 +15,7 @@
 
 ### :man_technologist: About Me :
 I'm a Software Engineering Student at University.
-- 🌱 I’m currently learning flutter, react.
+- 🌱 I’m currently learning flutter.
 
 ---
 
